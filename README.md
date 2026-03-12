@@ -1,4 +1,4 @@
-  # Olá, sou o Claudemir Silva! 👋
+# Olá, sou o Claudemir Silva! 👋
 
 ## Analista de QA | Acessibilidade Digital | IA Aplicada
 
