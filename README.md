@@ -1,4 +1,4 @@
-			# Olá, sou o Claudemir Silva! 👋
+# Olá, sou o Claudemir Silva! 👋
 
 ## Analista de QA | Acessibilidade Digital | IA Aplicada
 
@@ -14,4 +14,4 @@ Sou um profissional focado em garantir que a tecnologia seja para todos. Como us
 * Praticante de esportes adaptados e entusiasta da inclusão através do movimento e do esporte.
 
 ---
-📫 **Como me encontrar:** [Acesse meu LinkedI                                                                                    n](https://www.linkedin.com/in/claudemirwms-pcd)            
+📫 **Como me encontrar:** [Acesse meu LinkedIn](https://www.linkedin.com/in/claudemirwms-pcd)
