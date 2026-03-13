@@ -2,7 +2,7 @@
 
 ## Analista de QA | Acessibilidade Digital | IA Aplicada
 
-Sou um profissional focado em garantir que a tecnologia seja para todos. Como usuário de tecnologias assistivas, uno o conhecimento técnico da WCAG com a experiência prática para promover um UX Inclusivo.
+Sou um profissional focado em garantir que a tecnologia seja para todos. Como usuário de tecnologias assistivas, combino o conhecimento técnico da WCAG com a experiência prática para promover um UX Inclusivo.
 
 ### No que estou focado:
 * Garantia de Qualidade (QA): Testes rigorosos de acessibilidade e funcionalidade.
